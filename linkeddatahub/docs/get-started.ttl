@@ -34,7 +34,7 @@
     </div>
     <div>
         <h2 id="create-container">Create a container</h2>
-        <p>We will need to containers for our SKOS instances: one for the concepts and one for the concept schemes.</p>
+        <p>We will need two containers for our SKOS instances: one for the concepts and one for the concept schemes.</p>
         <p>Use <samp>Concepts</samp> as title and <samp>concepts</samp> as URI slug for the former; <samp>Concept schemes</samp> as title and <samp>concept-schemes</samp> as URI slug for the latter.</p>
         <p class="lead"><a href="../user-guide/create-document/" target="_blank">Follow a tutorial to create a container.</a></p>
     </div>
